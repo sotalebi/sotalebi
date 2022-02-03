@@ -1,0 +1,6 @@
+guide to run the codes
+the cfgs part of the codes are where you can switch different biomass estimation model(line 13, 2D for RF and SVR model, and 3D for CNN model. and line 17 can choose the model type, RF, SVR and CNN) 
+please pay attention that SVR and CNN take time to run. 
+to run the model with all input data first build a file named 'newmethod1'. then extract all newmwthod1-5 and transfer in to the 'newmethod1'.
+to run the model with RFFS or SVRFS, transfer what is in SVRFSINPUTDATA or RFFSINPUTDATA to an empty newmethod1 file respectively.  
+best regards
